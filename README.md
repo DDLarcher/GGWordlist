@@ -1,5 +1,5 @@
 # Wordlist Generator
-
+Go Generator Wordlist
 A terminal-based wordlist generator written in Go. Combines user-provided words with multiple casing modes, number ranges, and special characters — or generates exhaustive numeric combinations.
 
 ```
